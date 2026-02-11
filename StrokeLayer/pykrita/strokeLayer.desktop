@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=strokeLayer
+X-Python-2-Compatible=false
+Name=Stroke Layer
+Comment=Add Stroke Layer according to Selection or Layer's Opaque
